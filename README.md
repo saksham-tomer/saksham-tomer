@@ -20,19 +20,7 @@
 <!--- -- Menu ---------------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-# [Menu](#menu)
-- [Welcome](#welcome)
-- [Moving Logos](#moving-logos-)
-- [Animated Social Icons](#animated-social-media-icons-)
-- [Animated Emojis](#animated-emojis-)
-- [Animated Hello Banner](#animated-hello-)
-- [Build your own Octocat](#build-your-own-octocat-)
-- [Nice to Meet You Raw](#hello-nice-to-meet-you--)
-- [Work Culture (HD Visuals)](#work-culture-hd-visuals-)
-- [Extra Value Added](#extra-value-added-)
-- [Cute Working Stickers](#cute-working-stickers-)
-- [Awesome Banners](#awesome-banners-)
-- [Cool Avatars for GitHub Profile](#--cool-avatars-for-github-profile---)
+
   
 <br>
 
