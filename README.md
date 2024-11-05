@@ -6,7 +6,6 @@
 
 ## 💼 About Me
 
-- **Location:** Bareilly, Uttar Pradesh, India
 - **Email:** sakshamtomerdevs@gmail.com
 - **LinkedIn:** [Saksham Tomar](https://www.linkedin.com/in/saksham-tomar-8090b22b7/)
 - **Portfolio:** [Saksham's Portfolio](https://port-one-brown.vercel.app/)
