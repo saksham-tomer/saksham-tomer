@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hello, I'm Saksham Tomar
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" height="35"> Hello, I'm Saksham Tomar
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Blockchain+Enthusiast;DevOps+Engineer;Problem+Solver" alt="Typing SVG" />
@@ -13,8 +13,6 @@
 ---
 
 ## 💼 About Me
-
-<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 - **Email:** sakshamtomerdevs@gmail.com
 - **LinkedIn:** [Saksham Tomar](https://www.linkedin.com/in/saksham-tomar-8090b22b7/)
@@ -43,19 +41,24 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saksham-tomer&show_icons=true&theme=radical" alt="Saksham's GitHub stats" height="170px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saksham-tomer&theme=radical" alt="GitHub Streak" height="170px" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham-tomer&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
+---
+
+## 📊 Contribution Graph
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saksham-tomer&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Chart%20Increasing.png" width="25" height="25" alt="Chart" /> 
+  
+  ![Snake animation](https://github.com/saksham-tomer/saksham-tomer/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
 
 ---
@@ -131,21 +134,21 @@
 
 ## 🏆 Achievements
 
-- 🥇 Hackathon Winner
-- 📈 Boosted API response times by 40% and reduced infrastructure costs by 20% through optimized microservices and CI/CD pipeline setup.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/1st%20Place%20Medal.png" width="25" height="25" alt="Medal"> Hackathon Winner
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="25" height="25" alt="Chart"> Boosted API response times by 40% and reduced infrastructure costs by 20% through optimized microservices and CI/CD pipeline setup.
 
 ---
 
-## 📈 GitHub Activity Graph
+## 🔄 Latest Activity
 
-<div align="center">
-  <img alt="Saksham's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=saksham-tomer&theme=tokyo-night" />
-</div>
+<!-- GITHUB_ACTIVITY starts -->
+<!-- Will be filled by GitHub Actions -->
+<!-- GITHUB_ACTIVITY ends -->
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
 </div>
 
 <div align="center">
