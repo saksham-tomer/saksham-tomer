@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Blockchain+Enthusiast;DevOps+Engineer;Problem+Solver" alt="Typing SVG" />
 </div>
 
-🚀 A Full Stack Developer with over 3 years of experience, specializing in modern web and blockchain technologies. Passionate about creating efficient, scalable, and maintainable solutions that solve real-world problems.
+🚀 A Full Stack Developer with over 4 years of experience, specializing in modern web and blockchain technologies. Passionate about creating efficient, scalable, and maintainable solutions that solve real-world problems.
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=saksham-tomer&style=flat-square&color=blue" alt="Profile views"/>
